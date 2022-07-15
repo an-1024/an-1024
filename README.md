@@ -20,3 +20,4 @@ Here are some ideas to get you started:
     <img src="https://activity-graph.herokuapp.com/graph?username=an-1024&theme=minimal" />
 </div>
 
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/an-1024/an-1024/assets/github-contribution-grid-snake.svg" /></div>
