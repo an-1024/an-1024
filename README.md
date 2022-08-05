@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=52&duration=6000&color=F77128&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=One+small+step+every+day%2C+one+big+step+in+life)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=52&duration=6000&color=F77128&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Efforts to move bricks)](https://git.io/typing-svg)
 
 <!--
 **Achuan-2/Achuan-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
