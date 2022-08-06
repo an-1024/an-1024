@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&height=80&lines=Code%E3%80%81Eat%E3%80%81Sleep%E3%80%81Explore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&vCenter=true&width=600&height=80&lines=Code%E3%80%81Eat%E3%80%81Sleep%E3%80%81Explore%E3%80%81Lazy)](https://git.io/typing-svg)
 
 <!--
 **Achuan-2/Achuan-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
