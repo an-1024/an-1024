@@ -9,3 +9,13 @@
 8. [Java 多线程体系](https://github.com/an-1024/JUC/blob/note/threadpool/src/main/resources/note/1.%E7%BA%BF%E7%A8%8B%E6%B1%A0.md)
 # Spring 源码学习
 1. [Spring 源码学习记录](https://github.com/an-1024/SpringFamily_St/blob/master/Spring_St/spring-framework-5.2.x/spring-azh-example/src/main/resources/note/1.Spring-IOC.md)
+
+# 算法题
+## 数组
+1. [704-二分查找](https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/binarySearch.md)
+2. [209-长度最小的连续子数组](https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/minimumSizeSubarraySum.md)
+3. [27-移除元素](https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/removeElement.md)
+4. [59-螺旋矩阵 II](https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/spiralMatrixII.md)
+
+## 链表
+1. [链表相关](https://github.com/an-1024/LeetCode/blob/master/link/src/main/resources/note/1.%E9%93%BE%E8%A1%A8.md)
