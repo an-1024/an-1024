@@ -12,7 +12,7 @@
 
 # 算法题
 ## 数组
-1. [数组相关]([https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/binarySearch.md](https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/1.%E6%95%B0%E7%BB%84.md))
+1. [数组相关](https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/1.%E6%95%B0%E7%BB%84.md)
 
 ## 链表
 1. [链表相关](https://github.com/an-1024/LeetCode/blob/master/link/src/main/resources/note/1.%E9%93%BE%E8%A1%A8.md)
