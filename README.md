@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=an-1024&theme=minimal" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=an-1024" />
 </div>
+
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/an-1024/an-1024/assets/github-contribution-grid-snake.svg" /></div>
