@@ -19,6 +19,9 @@
 5. [MySQL事物隔离级别与锁机制](https://github.com/an-1024/Database/blob/master/mysql/src/main/resources/note/5.MySQL%E4%BA%8B%E7%89%A9%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB%E4%B8%8E%E9%94%81%E6%9C%BA%E5%88%B6.md)
 6. [MVCC与BufferPool缓存机制](https://github.com/an-1024/Database/blob/master/mysql/src/main/resources/note/6.MVCC%E4%B8%8EBufferPool%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)
 
+# JVM
+1.[JVM-类加载机制](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/1.JVM类加载机制.md)
+
 # 算法题
 ## 数组
 1. [数组](https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/1.%E6%95%B0%E7%BB%84.md)
