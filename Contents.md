@@ -20,7 +20,8 @@
 6. [MVCC与BufferPool缓存机制](https://github.com/an-1024/Database/blob/master/mysql/src/main/resources/note/6.MVCC%E4%B8%8EBufferPool%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)
 
 # JVM
-1.[JVM虚拟机](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/1.JVM%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+1. [JVM虚拟机](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/1.JVM%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+2. [JVM类加载机制](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/2.%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
 
 # 算法题
 ## 数组
