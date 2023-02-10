@@ -21,7 +21,7 @@
 
 # JVM
 1. [虚拟机类加载机制](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/1.%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
-2. [JVM虚拟机-内存分配]((https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/2.JVM%E8%99%9A%E6%8B%9F%E6%9C%BA-%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D.md)
+2. [JVM虚拟机-内存分配](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/2.JVM%E8%99%9A%E6%8B%9F%E6%9C%BA-%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D.md)
 
 # 算法题
 ## 数组
