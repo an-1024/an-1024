@@ -32,4 +32,4 @@
 ## 哈希表
 1. [哈希表](https://github.com/an-1024/LeetCode/blob/master/hash/src/main/resources/note/1.%E5%93%88%E5%B8%8C%E8%A1%A8.md)
 
-\frac{x}{y}
+$\frac ab$
