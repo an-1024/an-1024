@@ -31,3 +31,5 @@
 1. [链表](https://github.com/an-1024/LeetCode/blob/master/link/src/main/resources/note/1.%E9%93%BE%E8%A1%A8.md)
 ## 哈希表
 1. [哈希表](https://github.com/an-1024/LeetCode/blob/master/hash/src/main/resources/note/1.%E5%93%88%E5%B8%8C%E8%A1%A8.md)
+
+吞吐量=$\frac {"用户运行代码时间"\over "用户运行代码时间"+"运行垃圾收集时间"}$
