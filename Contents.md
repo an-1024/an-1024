@@ -32,4 +32,4 @@
 ## 哈希表
 1. [哈希表](https://github.com/an-1024/LeetCode/blob/master/hash/src/main/resources/note/1.%E5%93%88%E5%B8%8C%E8%A1%A8.md)
 
-$吞吐量={用户运行代码时间 \over 用户运行代码时间+运行垃圾收集时间}$
+<center>$吞吐量={用户运行代码时间 \over 用户运行代码时间+运行垃圾收集时间}$</center>
