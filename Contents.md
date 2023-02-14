@@ -23,6 +23,7 @@
 1. [虚拟机类加载机制](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/1.%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
 2. [JVM虚拟机-内存分配](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/2.JVM%E8%99%9A%E6%8B%9F%E6%9C%BA-%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D.md)
 3. [JVM虚拟机-垃圾收集器](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/3.JVM%E8%99%9A%E6%8B%9F%E6%9C%BA-%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8.md)
+4. [GC调优实战](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/4.GC%E8%B0%83%E4%BC%98%E5%AE%9E%E6%88%98.md)
 
 # 算法题
 ## 数组
