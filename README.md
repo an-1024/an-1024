@@ -48,6 +48,10 @@ Here are some ideas to get you started:
 3. [JVM虚拟机-垃圾收集器](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/3.JVM%E8%99%9A%E6%8B%9F%E6%9C%BA-%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8.md)
 4. [GC调优实战](https://github.com/an-1024/JUC/blob/master/jvm/src/main/resources/note/4.GC%E8%B0%83%E4%BC%98%E5%AE%9E%E6%88%98.md)
 
+# Redis
+1. [Redis 核心数据结构](https://github.com/an-1024/Middleware_St/blob/master/redis/src/main/resources/note/1.Redis%E6%A0%B8%E5%BF%83%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+2. [Redis 持久化主从架构](https://github.com/an-1024/Middleware_St/blob/master/redis/src/main/resources/note/2.Redis%20%E6%8C%81%E4%B9%85%E5%8C%96%E9%9B%86%E7%BE%A4%E5%8E%9F%E7%90%86.md)
+
 # 算法题
 ## 数组
 1. [数组](https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/1.%E6%95%B0%E7%BB%84.md)
