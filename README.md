@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 # Spring 源码学习
 1. [Spring源码笔记](https://github.com/an-1024/SpringFamily_St/blob/master/Spring_St/spring-framework-5.2.x/spring-azh-example/src/main/resources/note/1.Spring%E6%BA%90%E7%A0%81%E7%AC%94%E8%AE%B0.md)
 
+# Spring Cloud 微服务学习
+1. [Nacos服务注册中心实战](https://github.com/an-1024/SpringFamily_St/blob/master/SpringCloud_St/nacos/record/note/1.Nacos%E6%9C%8D%E5%8A%A1%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83%E5%AE%9E%E6%88%98.md)
+
 # Database
 1. [MySQL概述](https://github.com/an-1024/Database/blob/master/mysql/src/main/resources/note/1.MySQL%E6%A6%82%E8%BF%B0.md)
 2. [MySQL数据库安装](https://github.com/an-1024/Database/blob/master/mysql/src/main/resources/note/2.MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E8%A3%85.md)
