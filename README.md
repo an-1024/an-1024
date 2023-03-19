@@ -55,6 +55,9 @@ Here are some ideas to get you started:
 1. [Redis 核心数据结构](https://github.com/an-1024/Middleware_St/blob/master/redis/src/main/resources/note/1.Redis%E6%A0%B8%E5%BF%83%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 2. [Redis 持久化主从架构](https://github.com/an-1024/Middleware_St/blob/master/redis/src/main/resources/note/2.Redis%20%E6%8C%81%E4%B9%85%E5%8C%96%E9%9B%86%E7%BE%A4%E5%8E%9F%E7%90%86.md)
 
+# Netty
+1. [网络通信TCPIP](https://github.com/an-1024/Middleware_St/blob/master/netty/src/main/resources/note/1.%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1TCPIP.md)
+
 # 算法题
 ## 数组
 1. [数组](https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/1.%E6%95%B0%E7%BB%84.md)
