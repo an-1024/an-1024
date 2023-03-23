@@ -58,11 +58,3 @@ Here are some ideas to get you started:
 # Netty
 1. [网络通信TCPIP](https://github.com/an-1024/Middleware_St/blob/master/netty/src/main/resources/note/1.%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1TCPIP.md)
 
-# 算法题
-## 数组
-1. [数组](https://github.com/an-1024/LeetCode/blob/master/array/src/main/resources/notes/1.%E6%95%B0%E7%BB%84.md)
-## 链表
-1. [链表](https://github.com/an-1024/LeetCode/blob/master/link/src/main/resources/note/1.%E9%93%BE%E8%A1%A8.md)
-## 哈希表
-1. [哈希表](https://github.com/an-1024/LeetCode/blob/master/hash/src/main/resources/note/1.%E5%93%88%E5%B8%8C%E8%A1%A8.md)
-
