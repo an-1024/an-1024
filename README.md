@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 # Spring Cloud 微服务学习
 1. [Nacos服务注册中心实战](https://github.com/an-1024/SpringFamily_St/blob/master/SpringCloud_St/nacos/record/note/1.Nacos%E6%9C%8D%E5%8A%A1%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83%E5%AE%9E%E6%88%98.md)
+2. [Ribbon&LoadBalancer实战](https://github.com/an-1024/SpringFamily_St/blob/master/SpringCloud_St/nacos/record/note/2.Ribbon%26LoadBalancer%E5%AE%9E%E6%88%98.md)
 
 # Database
 1. [MySQL概述](https://github.com/an-1024/Database/blob/master/mysql/src/main/resources/note/1.MySQL%E6%A6%82%E8%BF%B0.md)
