@@ -55,6 +55,10 @@ Here are some ideas to get you started:
 1. [Redis 核心数据结构](https://github.com/an-1024/Middleware_St/blob/master/redis/src/main/resources/note/1.Redis%E6%A0%B8%E5%BF%83%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 2. [Redis 持久化主从架构](https://github.com/an-1024/Middleware_St/blob/master/redis/src/main/resources/note/2.Redis%20%E6%8C%81%E4%B9%85%E5%8C%96%E9%9B%86%E7%BE%A4%E5%8E%9F%E7%90%86.md)
 
+# RocketMQ
+1. [RocketMQ快速实战以及集群架构解析](https://github.com/an-1024/Middleware_St/blob/9fb778be7f/rocketMq/RocketMQAPI/src/main/resources/note/1.RocketMQ%E5%BF%AB%E9%80%9F%E5%AE%9E%E6%88%98%E4%BB%A5%E5%8F%8A%E9%9B%86%E7%BE%A4%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90.md)
+2. [RocketMQ开发模型与生产问题剖析](https://github.com/an-1024/Middleware_St/blob/master/rocketMq/RocketMQAPI/src/main/resources/note/2.RocketMQ%E5%BC%80%E5%8F%91%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%94%9F%E4%BA%A7%E9%97%AE%E9%A2%98%E5%89%96%E6%9E%90.md)
+
 # Netty
 1. [网络通信TCPIP](https://github.com/an-1024/Middleware_St/blob/master/netty/src/main/resources/note/1.%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1TCPIP.md)
 
